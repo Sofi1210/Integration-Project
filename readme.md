@@ -13,3 +13,4 @@ version 1.30.15 (21/07/2022)
 
 - Integramos una pesataña de carreras.
 - Integramos una pestaña de login.
+- Agrandamos el contenido, haciendo que sea más accesible y expresivo para el ususario.
